@@ -3,3 +3,4 @@
 2023-01-01T13:38:15 - docs: improve memory usage during file serialization
 2023-01-01T13:53:23 - test: restructure file system directory hierarchy
 2023-01-01T14:55:33 - chore: resolve null pointer exception in helper class
+2023-01-01T16:56:11 - fix: add comprehensive unit tests for parser
