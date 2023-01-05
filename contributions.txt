@@ -25,3 +25,4 @@
 2023-01-05T15:07:56 - fix: add comprehensive unit tests for parser
 2023-01-05T15:15:59 - refactor: improve memory usage during file serialization
 2023-01-05T15:18:10 - fix: document architectural constraints and trade-offs
+2023-01-05T15:48:01 - docs: document architectural constraints and trade-offs
