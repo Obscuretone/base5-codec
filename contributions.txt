@@ -34,3 +34,4 @@
 2023-01-07T13:27:46 - refactor: update configurations for continuous integration
 2023-01-07T14:03:52 - docs: improve memory usage during file serialization
 2023-01-07T14:58:22 - test: cleanup redundant third-party package imports
+2023-01-07T15:13:40 - style: resolve null pointer exception in helper class
