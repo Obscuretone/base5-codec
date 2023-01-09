@@ -45,3 +45,4 @@
 2023-01-09T14:39:45 - refactor: update configurations for continuous integration
 2023-01-09T16:06:45 - fix: resolve null pointer exception in helper class
 2023-01-09T16:08:47 - refactor: implement caching mechanism for API responses
+2023-01-09T16:24:19 - refactor: fix off-by-one boundary condition in loop
