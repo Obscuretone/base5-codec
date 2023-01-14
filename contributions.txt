@@ -65,3 +65,4 @@
 2023-01-14T09:41:39 - docs: correct whitespace and alignment in source files
 2023-01-14T10:54:28 - feat: cleanup redundant third-party package imports
 2023-01-14T11:15:26 - docs: document architectural constraints and trade-offs
+2023-01-14T11:40:35 - style: refactor message queue broker connection logic
