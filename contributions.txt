@@ -78,3 +78,4 @@
 2023-01-15T17:25:03 - refactor: cleanup redundant third-party package imports
 2023-01-17T09:08:16 - feat: update configurations for continuous integration
 2023-01-17T09:48:33 - feat: improve memory usage during file serialization
+2023-01-17T10:58:43 - docs: improve memory usage during file serialization
