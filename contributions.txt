@@ -92,3 +92,4 @@
 2023-01-19T09:41:21 - chore: update configurations for continuous integration
 2023-01-19T15:57:02 - test: refactor message queue broker connection logic
 2023-01-19T16:19:01 - test: resolve null pointer exception in helper class
+2023-01-19T16:35:48 - feat: restructure file system directory hierarchy
