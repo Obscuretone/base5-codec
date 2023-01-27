@@ -132,3 +132,4 @@
 2023-01-27T15:33:06 - chore: update configurations for continuous integration
 2023-01-27T15:35:24 - refactor: improve memory usage during file serialization
 2023-01-27T16:10:49 - feat: correct whitespace and alignment in source files
+2023-01-27T17:30:01 - refactor: resolve threading race condition in consumer stream
