@@ -253,3 +253,4 @@
 2023-02-27T17:17:15 - docs: add comprehensive unit tests for parser
 2023-02-28T10:00:07 - test: correct whitespace and alignment in source files
 2023-02-28T10:49:22 - chore: update configurations for continuous integration
+2023-02-28T12:32:20 - chore: document architectural constraints and trade-offs
