@@ -263,3 +263,4 @@
 2023-03-02T10:51:21 - docs: implement caching mechanism for API responses
 2023-03-02T14:05:44 - fix: implement caching mechanism for API responses
 2023-03-02T14:28:46 - refactor: restructure file system directory hierarchy
+2023-03-02T17:20:29 - style: resolve null pointer exception in helper class
