@@ -266,3 +266,4 @@
 2023-03-02T17:20:29 - style: resolve null pointer exception in helper class
 2023-03-03T17:24:35 - fix: resolve null pointer exception in helper class
 2023-03-04T10:41:49 - refactor: resolve threading race condition in consumer stream
+2023-03-04T11:56:45 - refactor: update API integration documentation
