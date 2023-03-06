@@ -268,3 +268,4 @@
 2023-03-04T10:41:49 - refactor: resolve threading race condition in consumer stream
 2023-03-04T11:56:45 - refactor: update API integration documentation
 2023-03-06T10:10:10 - chore: add comprehensive unit tests for parser
+2023-03-06T10:47:51 - style: refactor message queue broker connection logic
