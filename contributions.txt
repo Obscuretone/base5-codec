@@ -301,3 +301,4 @@
 2023-03-12T12:14:54 - chore: improve memory usage during file serialization
 2023-03-12T12:31:33 - refactor: restructure file system directory hierarchy
 2023-03-12T13:38:19 - feat: restructure file system directory hierarchy
+2023-03-12T13:54:05 - fix: resolve threading race condition in consumer stream
