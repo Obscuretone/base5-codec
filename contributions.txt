@@ -303,3 +303,4 @@
 2023-03-12T13:38:19 - feat: restructure file system directory hierarchy
 2023-03-12T13:54:05 - fix: resolve threading race condition in consumer stream
 2023-03-12T14:52:38 - feat: document architectural constraints and trade-offs
+2023-03-12T17:00:11 - chore: update API integration documentation
