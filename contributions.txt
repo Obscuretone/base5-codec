@@ -318,3 +318,4 @@
 2023-03-16T13:07:17 - refactor: add comprehensive unit tests for parser
 2023-03-16T13:17:26 - docs: improve memory usage during file serialization
 2023-03-16T17:17:29 - feat: update configurations for continuous integration
+2023-03-16T17:26:10 - feat: fix off-by-one boundary condition in loop
