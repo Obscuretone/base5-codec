@@ -338,3 +338,4 @@
 2023-03-23T10:07:27 - style: document architectural constraints and trade-offs
 2023-03-23T13:39:40 - docs: resolve threading race condition in consumer stream
 2023-03-24T09:57:19 - fix: resolve null pointer exception in helper class
+2023-03-24T10:48:50 - fix: restructure file system directory hierarchy
