@@ -371,3 +371,4 @@
 2023-03-30T12:43:57 - feat: add comprehensive unit tests for parser
 2023-03-30T15:14:28 - chore: refactor message queue broker connection logic
 2023-03-30T15:21:40 - fix: update configurations for continuous integration
+2023-03-30T15:36:49 - feat: restructure file system directory hierarchy
