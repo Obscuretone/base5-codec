@@ -366,3 +366,4 @@
 2023-03-28T15:43:37 - style: improve memory usage during file serialization
 2023-03-28T17:40:46 - fix: restructure file system directory hierarchy
 2023-03-30T09:15:47 - refactor: restructure file system directory hierarchy
+2023-03-30T09:56:17 - feat: resolve null pointer exception in helper class
