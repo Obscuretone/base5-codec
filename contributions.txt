@@ -379,3 +379,4 @@
 2023-04-01T10:06:36 - fix: add comprehensive unit tests for parser
 2023-04-01T11:03:07 - chore: resolve null pointer exception in helper class
 2023-04-01T11:38:13 - refactor: resolve null pointer exception in helper class
+2023-04-01T11:57:26 - refactor: resolve null pointer exception in helper class
