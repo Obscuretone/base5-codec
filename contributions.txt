@@ -377,3 +377,4 @@
 2023-03-30T17:23:14 - refactor: implement caching mechanism for API responses
 2023-04-01T09:52:46 - style: optimize database query indexing
 2023-04-01T10:06:36 - fix: add comprehensive unit tests for parser
+2023-04-01T11:03:07 - chore: resolve null pointer exception in helper class
