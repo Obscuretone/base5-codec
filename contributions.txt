@@ -431,3 +431,4 @@
 2023-04-15T09:45:48 - chore: update API integration documentation
 2023-04-15T09:52:27 - refactor: improve memory usage during file serialization
 2023-04-15T12:34:38 - feat: document architectural constraints and trade-offs
+2023-04-15T14:17:01 - docs: resolve null pointer exception in helper class
