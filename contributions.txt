@@ -442,3 +442,4 @@
 2023-04-16T16:22:34 - feat: resolve threading race condition in consumer stream
 2023-04-17T09:31:21 - test: cleanup redundant third-party package imports
 2023-04-17T09:45:09 - style: add comprehensive unit tests for parser
+2023-04-17T10:21:26 - fix: refactor message queue broker connection logic
