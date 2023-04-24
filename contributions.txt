@@ -478,3 +478,4 @@
 2023-04-24T12:25:29 - style: correct whitespace and alignment in source files
 2023-04-24T12:40:55 - fix: add comprehensive unit tests for parser
 2023-04-24T12:50:41 - docs: update configurations for continuous integration
+2023-04-24T14:06:52 - fix: refactor message queue broker connection logic
