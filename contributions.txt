@@ -486,3 +486,4 @@
 2023-04-25T09:42:50 - feat: update configurations for continuous integration
 2023-04-25T10:06:01 - style: resolve threading race condition in consumer stream
 2023-04-25T10:45:23 - style: add comprehensive unit tests for parser
+2023-04-25T10:54:00 - feat: fix off-by-one boundary condition in loop
