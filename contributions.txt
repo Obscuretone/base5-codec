@@ -488,3 +488,4 @@
 2023-04-25T10:45:23 - style: add comprehensive unit tests for parser
 2023-04-25T10:54:00 - feat: fix off-by-one boundary condition in loop
 2023-04-25T15:03:38 - chore: fix off-by-one boundary condition in loop
+2023-04-25T15:56:06 - fix: improve memory usage during file serialization
