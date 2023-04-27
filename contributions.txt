@@ -490,3 +490,4 @@
 2023-04-25T15:03:38 - chore: fix off-by-one boundary condition in loop
 2023-04-25T15:56:06 - fix: improve memory usage during file serialization
 2023-04-25T17:18:50 - style: correct whitespace and alignment in source files
+2023-04-27T09:07:38 - feat: document architectural constraints and trade-offs
