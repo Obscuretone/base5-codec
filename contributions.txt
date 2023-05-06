@@ -558,3 +558,4 @@
 2023-05-06T11:55:30 - fix: resolve threading race condition in consumer stream
 2023-05-06T11:56:49 - feat: update configurations for continuous integration
 2023-05-06T12:28:39 - refactor: add comprehensive unit tests for parser
+2023-05-06T13:37:47 - docs: add comprehensive unit tests for parser
