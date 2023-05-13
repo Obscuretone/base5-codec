@@ -580,3 +580,4 @@
 2023-05-13T15:18:58 - refactor: refactor message queue broker connection logic
 2023-05-13T15:24:44 - fix: refactor message queue broker connection logic
 2023-05-13T15:36:28 - fix: restructure file system directory hierarchy
+2023-05-13T16:39:34 - docs: update API integration documentation
