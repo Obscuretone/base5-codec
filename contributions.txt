@@ -608,3 +608,4 @@
 2023-05-17T12:12:50 - chore: fix off-by-one boundary condition in loop
 2023-05-17T12:28:13 - fix: add comprehensive unit tests for parser
 2023-05-17T12:50:46 - test: document architectural constraints and trade-offs
+2023-05-17T12:55:33 - feat: document architectural constraints and trade-offs
