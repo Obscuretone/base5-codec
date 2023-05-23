@@ -634,3 +634,4 @@
 2023-05-23T14:42:54 - chore: update configurations for continuous integration
 2023-05-23T16:18:49 - test: refactor message queue broker connection logic
 2023-05-23T16:38:26 - test: correct whitespace and alignment in source files
+2023-05-23T17:20:17 - refactor: resolve null pointer exception in helper class
