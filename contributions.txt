@@ -644,3 +644,4 @@
 2023-05-25T13:35:52 - fix: optimize database query indexing
 2023-05-25T15:58:05 - refactor: resolve threading race condition in consumer stream
 2023-05-25T16:39:56 - feat: update configurations for continuous integration
+2023-05-26T15:56:56 - test: resolve null pointer exception in helper class
