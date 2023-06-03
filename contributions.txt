@@ -672,3 +672,4 @@
 2023-06-02T14:05:18 - chore: update configurations for continuous integration
 2023-06-02T14:51:46 - style: add comprehensive unit tests for parser
 2023-06-03T12:14:15 - refactor: improve memory usage during file serialization
+2023-06-03T12:52:01 - chore: restructure file system directory hierarchy
