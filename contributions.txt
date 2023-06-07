@@ -687,3 +687,4 @@
 2023-06-07T10:43:53 - refactor: resolve null pointer exception in helper class
 2023-06-07T11:40:16 - refactor: correct whitespace and alignment in source files
 2023-06-07T12:46:14 - refactor: resolve threading race condition in consumer stream
+2023-06-07T13:23:39 - chore: fix off-by-one boundary condition in loop
