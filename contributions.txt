@@ -727,3 +727,4 @@
 2023-06-16T17:25:00 - style: cleanup redundant third-party package imports
 2023-06-18T09:34:54 - docs: resolve threading race condition in consumer stream
 2023-06-18T13:39:03 - test: resolve null pointer exception in helper class
+2023-06-19T10:10:44 - feat: refactor message queue broker connection logic
