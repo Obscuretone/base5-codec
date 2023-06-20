@@ -742,3 +742,4 @@
 2023-06-20T13:42:36 - chore: resolve null pointer exception in helper class
 2023-06-20T14:43:30 - style: cleanup redundant third-party package imports
 2023-06-20T16:08:46 - fix: cleanup redundant third-party package imports
+2023-06-20T16:41:06 - test: resolve null pointer exception in helper class
