@@ -790,3 +790,4 @@
 2023-07-04T10:34:35 - docs: fix off-by-one boundary condition in loop
 2023-07-04T10:53:23 - style: cleanup redundant third-party package imports
 2023-07-04T11:54:31 - docs: implement caching mechanism for API responses
+2023-07-04T12:05:35 - fix: resolve null pointer exception in helper class
