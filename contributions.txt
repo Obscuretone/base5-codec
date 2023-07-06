@@ -802,3 +802,4 @@
 2023-07-05T13:39:08 - feat: correct whitespace and alignment in source files
 2023-07-05T14:48:10 - docs: add comprehensive unit tests for parser
 2023-07-06T09:57:52 - chore: update configurations for continuous integration
+2023-07-06T10:19:44 - fix: resolve null pointer exception in helper class
