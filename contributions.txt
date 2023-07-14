@@ -831,3 +831,4 @@
 2023-07-14T11:20:33 - test: cleanup redundant third-party package imports
 2023-07-14T11:57:01 - refactor: improve memory usage during file serialization
 2023-07-14T12:05:05 - refactor: resolve null pointer exception in helper class
+2023-07-14T12:10:19 - feat: resolve null pointer exception in helper class
