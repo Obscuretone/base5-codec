@@ -857,3 +857,4 @@
 2023-07-17T10:31:40 - style: fix off-by-one boundary condition in loop
 2023-07-17T11:27:12 - style: resolve threading race condition in consumer stream
 2023-07-17T16:49:44 - docs: update API integration documentation
+2023-07-17T17:57:32 - style: document architectural constraints and trade-offs
