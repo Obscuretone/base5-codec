@@ -872,3 +872,4 @@
 2023-07-24T10:11:00 - fix: document architectural constraints and trade-offs
 2023-07-24T11:45:29 - test: add comprehensive unit tests for parser
 2023-07-24T12:06:20 - test: refactor message queue broker connection logic
+2023-07-24T12:20:56 - docs: document architectural constraints and trade-offs
