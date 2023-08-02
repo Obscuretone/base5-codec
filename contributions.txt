@@ -915,3 +915,4 @@
 2023-08-01T11:17:12 - feat: resolve threading race condition in consumer stream
 2023-08-01T15:03:05 - docs: resolve null pointer exception in helper class
 2023-08-01T16:43:23 - test: resolve threading race condition in consumer stream
+2023-08-02T09:13:17 - feat: restructure file system directory hierarchy
