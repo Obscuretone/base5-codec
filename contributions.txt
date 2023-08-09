@@ -951,3 +951,4 @@
 2023-08-07T16:01:45 - chore: resolve threading race condition in consumer stream
 2023-08-07T16:25:03 - fix: fix off-by-one boundary condition in loop
 2023-08-07T17:52:19 - feat: update configurations for continuous integration
+2023-08-09T09:34:01 - docs: resolve null pointer exception in helper class
