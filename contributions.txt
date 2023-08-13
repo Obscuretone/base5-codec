@@ -959,3 +959,4 @@
 2023-08-10T11:29:51 - docs: update configurations for continuous integration
 2023-08-11T11:23:00 - style: resolve null pointer exception in helper class
 2023-08-11T14:55:07 - fix: fix off-by-one boundary condition in loop
+2023-08-13T10:22:00 - docs: update API integration documentation
