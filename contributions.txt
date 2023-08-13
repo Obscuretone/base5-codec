@@ -961,3 +961,4 @@
 2023-08-11T14:55:07 - fix: fix off-by-one boundary condition in loop
 2023-08-13T10:22:00 - docs: update API integration documentation
 2023-08-13T14:06:07 - refactor: resolve threading race condition in consumer stream
+2023-08-13T17:04:02 - style: add comprehensive unit tests for parser
