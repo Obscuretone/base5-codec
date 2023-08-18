@@ -982,3 +982,4 @@
 2023-08-18T12:56:56 - chore: update configurations for continuous integration
 2023-08-18T13:01:24 - fix: update API integration documentation
 2023-08-18T15:13:37 - style: resolve null pointer exception in helper class
+2023-08-18T17:25:09 - docs: resolve threading race condition in consumer stream
