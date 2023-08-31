@@ -1040,3 +1040,4 @@
 2023-08-31T11:41:24 - docs: fix off-by-one boundary condition in loop
 2023-08-31T13:15:13 - style: improve memory usage during file serialization
 2023-08-31T14:10:16 - style: cleanup redundant third-party package imports
+2023-08-31T15:19:59 - style: fix off-by-one boundary condition in loop
