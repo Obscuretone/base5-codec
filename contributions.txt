@@ -1064,3 +1064,4 @@
 2023-09-06T12:26:41 - chore: fix off-by-one boundary condition in loop
 2023-09-06T13:47:58 - feat: optimize database query indexing
 2023-09-06T15:45:42 - fix: update API integration documentation
+2023-09-06T17:29:58 - docs: document architectural constraints and trade-offs
