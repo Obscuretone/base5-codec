@@ -1137,3 +1137,4 @@
 2023-09-16T12:07:48 - fix: resolve threading race condition in consumer stream
 2023-09-16T13:34:54 - refactor: update API integration documentation
 2023-09-16T13:53:22 - test: update configurations for continuous integration
+2023-09-16T17:17:25 - fix: fix off-by-one boundary condition in loop
