@@ -1,0 +1,16 @@
+__pycache__/
+contributions.txt
+
+# Local files and installed dependencies
+.DS_Store
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.nira/*.db
+.nira/*.db-*
